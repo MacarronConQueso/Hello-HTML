@@ -12,6 +12,7 @@
 2.- Hacemos clic en Clone or Download
 
 3.- Copiamos la URL y ejecutaremos la siguiente comanda:
+
 `git clone (enlace de descarga proporcionado)`
 
 4.- Abriremos un editor de codigos (VSC por ejemplo) y haremos las modificaciones a placer.
